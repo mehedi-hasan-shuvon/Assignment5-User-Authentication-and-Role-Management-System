@@ -1,0 +1,17 @@
+{
+    "admin@gmail.com": {
+        "username": "admin",
+        "password": "0192023a7bbd73250516f069df18b500",
+        "role": "admin"
+    },
+    "user@gmail.com": {
+        "username": "Test User",
+        "password": "6ad14ba9986e3615423dfca256d04e3f",
+        "role": "manager"
+    },
+    "manager@gmail.com": {
+        "username": "Manager User",
+        "password": "0795151defba7a4b5dfa89170de46277",
+        "role": "manager"
+    }
+}
